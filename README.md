@@ -4,7 +4,7 @@
 
 **[Live Demo](https://just-in-time-pearl.vercel.app/)**
 
-![App Screenshot](public/app-screenshot.png)
+![App Screenshot](docs/app-screenshot.png)
 
 ## Getting Started
 
